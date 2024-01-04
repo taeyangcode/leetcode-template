@@ -1,4 +1,4 @@
-use {{crate-name}}::day_00::Solution;
+use {{crate_name}}::day_00::Solution;
 
 #[test]
 fn cases() {
